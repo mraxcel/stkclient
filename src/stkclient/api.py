@@ -233,7 +233,7 @@ def send_to_kindle(
         },
         "archive": True,
         "deliveryMechanism": "WIFI",
-        "outputFormat": "MOBI",
+        "outputFormat": "PDF",
         "stkToken": stk_token,
         "targetDevices": target_device_serial_numbers,
     }
